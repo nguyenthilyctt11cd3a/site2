@@ -1,14 +1,14 @@
-#WEBSITE ĐẶT VÉ DU LỊCH PHƯỢNG HOÀNG CỔ TRẤN:#
+# WEBSITE ĐẶT VÉ DU LỊCH PHƯỢNG HOÀNG CỔ TRẤN: #
 
 Trang gồm 2 giao diện DARK và NIGHT
 
-##Giao diện Dark:##
+## Giao diện Dark: ##
 
 ![img](anh2/site1.PNG)
 
-Giao diện Night:
+Giao diện Night
 
-![img](anh2/site5.PNG)
+![img](anh2/stie5.PNG)
 
 Trang có 4 thành phần: 
 <br>TRANG CHỦ:</br>
