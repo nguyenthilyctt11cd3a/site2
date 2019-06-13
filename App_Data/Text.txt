@@ -1,0 +1,9 @@
+﻿
+
+</br>Xin chào,Đây là thông tin bạn gửi đến chúng tôi :</br>
+
+<br>Tên :						##Name##</br>
+<br>Email:						##Email##</br>
+<br>Số điện thoại cá nhân:		##PhoneHome##</br>
+<br>Loại vé:			##TopicQuestions##</br>
+<br>Chú thích:					##Comments##</br>
