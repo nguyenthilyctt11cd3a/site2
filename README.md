@@ -51,6 +51,13 @@ Các tour hiện có sẵn và dự định thời gia khởi hành. Trong Tour 
 ## ĐẶT VÉ: ##
 Quý Khách điền đầy đủ thông tin của mình và gửi về cho trang. Trang sẽ phản hồi lại cho quý khách và sẽ hiển thi thông tin của quý khách qua bảng khách Tour bên dưới.
  
-## Bảng Tour thể hiện thông tin quý khách đã gửi về cho trang. Loại vé du lịch. Qua dó quý khách cũng có thể biết được có bao nhiêu người sẽ đi cùng mình.Quý khách có thể chọn bạn cùng phòng nếu đi một mình qua bảng này(nếu đi 1 người)
+## Bảng Tour thể hiện thông tin quý khách đã gửi về cho trang:##
++ Thông qua bảng Tour chúng tôi có thể thống kê số lượng khách cho một chuyến đi và lập kế hoạch về thời gian cụ thể cho chuyến đi.
++Trong bảng có 2 cột đặc biệt đó là cột LOẠI VÉ và Chú Thích:
+
+## Loại vé cho biết quyết định của quý khách đã chọn loại vé trong trang TOUR
+
+## Chú Thích: Quý khách có thể nêu ra những yêu cầu riêng của bản thân. ví dụ như: quý khách muốn ở phòng đơn hoặc phòng đôi, cũng có thể là phòng đặc biệt. Hoặc có thể là vấn đề sức khỏe của quý khách....v.v. Chúng tôi sẽ ghi nhận và lập ra một kế hoạch hoàn chỉnh. 
+
 
 ![img](anh2/site4.PNG)
