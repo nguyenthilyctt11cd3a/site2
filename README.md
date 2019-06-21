@@ -61,3 +61,5 @@ Quý Khách điền đầy đủ thông tin của mình và gửi về cho trang
 
 
 ![img](anh2/site4.PNG)
+
+CHÚC QUÝ KHÁCH CÓ MỘT KÌ NGHỈ TRỌN VẸN!!!!!
