@@ -64,3 +64,4 @@ Trong bảng có 2 cột đặc biệt đó là cột LOẠI VÉ và Chú Thích
 ![img](anh2/site4.PNG)
 
 CHÚC QUÝ KHÁCH CÓ MỘT KÌ NGHỈ TRỌN VẸN!!!!!
++ Trong bài của em có 1 lỗi em chưa khắc phục được. Đó là vì em bỏ CSDL chung với trang đặt vé nên sau khi nhập thông tin đăng kí và gửi về trang thì phải Tải lại trang. Và sẽ bị báo lỗi trang, Tải lại lần 2 thì sẽ thấy dữ liệu vừa nhập trong bảng CSDL.
