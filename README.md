@@ -54,7 +54,7 @@ Quý Khách điền đầy đủ thông tin của mình và gửi về cho trang
 ## Bảng Tour thể hiện thông tin quý khách đã gửi về cho trang: ##
 ![img](anh2/Capture.PNG)
 + Thông qua bảng Tour chúng tôi có thể thống kê số lượng khách cho một chuyến đi và lập kế hoạch về thời gian cụ thể cho chuyến đi.
-+Trong bảng có 2 cột đặc biệt đó là cột LOẠI VÉ và Chú Thích:
+Trong bảng có 2 cột đặc biệt đó là cột LOẠI VÉ và Chú Thích:
 
 ## Loại vé cho biết quyết định của quý khách đã chọn loại vé trong trang TOUR
 
