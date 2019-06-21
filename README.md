@@ -51,7 +51,7 @@ Các tour hiện có sẵn và dự định thời gia khởi hành. Trong Tour 
 ## ĐẶT VÉ: ##
 Quý Khách điền đầy đủ thông tin của mình và gửi về cho trang. Trang sẽ phản hồi lại cho quý khách và sẽ hiển thi thông tin của quý khách qua bảng khách Tour bên dưới.
  
-## Bảng Tour thể hiện thông tin quý khách đã gửi về cho trang:##
+## Bảng Tour thể hiện thông tin quý khách đã gửi về cho trang: ##
 + Thông qua bảng Tour chúng tôi có thể thống kê số lượng khách cho một chuyến đi và lập kế hoạch về thời gian cụ thể cho chuyến đi.
 +Trong bảng có 2 cột đặc biệt đó là cột LOẠI VÉ và Chú Thích:
 
